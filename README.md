@@ -1,11 +1,5 @@
-#  Introduce
+介绍
+=========
+这是博客的github仓库
 
-this is jolestar's blog git repository.
-
-base on [Jekyll-Bootstrap][] , add some custom feature, more detail please see <http://jolestar.com/use-jekyll-as-blog/>.
-
-you can visit by <http://jolestar.com> or <http://jolestar.github.com>
-
-
-
-[Jekyll-Bootstrap]: <http://jekyllbootstrap.com> "Jekyll-Bootstrap"
+本博客地址为:http://yougukepp.github.com/mysite
