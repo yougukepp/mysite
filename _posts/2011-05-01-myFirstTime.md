@@ -15,11 +15,11 @@ tags:
 今天，鹏哥开始学习逛街了。嘿嘿，进来的人有八成想歪了吧？想歪了的人先去面壁思过半分钟再接着看。
 五一到了，本想大干一场，例如去看看上海的海。由于在校园呆的太久，鹏哥居然忘掉了五一假期已经不是七天假好几年了，再说上海的海貌似很黄很黄，是海水真的很黄，不要又想歪了。所以，今天随便逛逛吧。直奔南京东路后，发现鹏哥今天在一个错误的时间干了正确的事。五一虽然不是长假，但依然是假期。南京东路那个人多啊！无图无真相：
 
-![njdl]({{ site.url }}/assets/pic/njdl.jpg)
+![njdl](http://yougukepp.github.io/mysite/assets/pic/njdl.jpg)
 
 其实这里有一个南京路步行街的牌子，被挡在了人墙后面，大家想象一下吧，呵呵。
 
-![flyHourse]({{ site.url }}/assets/pic/flyHourse.jpg)
+![flyHourse](http://yougukepp.github.io/mysite/assets/pic/flyHourse.jpg)
 
 图片 这匹马飞起来了。
 
@@ -37,8 +37,8 @@ tags:
 
 鹏哥看着小盆友大笑，呵呵，小朋友真是可爱啊！就和鹏哥小时候一样无图无真相：
 
-![flyHourse]({{ site.url }}/assets/pic/boy1.jpg)
-![flyHourse]({{ site.url }}/assets/pic/boy2.jpg)
+![boy1](http://yougukepp.github.io/mysite/assets/pic/boy1.jpg)
+![boy2](http://yougukepp.github.io/mysite/assets/pic/boy2.jpg)
 
 当然，这两张都是鹏哥小时候的照片。呵呵，可爱吧？为了保护未成年人，那个小朋友鹏哥没有拍
 
