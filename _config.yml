@@ -8,6 +8,7 @@ pygments: false
 markdown: rdiscount
 paginate: 6
 description_length: 200
+encoding: UTF-8
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
