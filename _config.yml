@@ -14,13 +14,13 @@ encoding: UTF-8
 # so be sure to set them if your theme uses them.
 #
 title : 沉心专注
-tagline: "Jolestar's Blog"
+tagline: "yougukepp's Blog"
 author :
-  name : Jolestar
-  email : jolestar at gmail.com
-  github : jolestar
-  twitter : jolestar
-  feedburner : jolestar
+  name : yougukepp
+  email : yougukepp@gmail.com
+  github : 
+  twitter : 
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -30,7 +30,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://jolestar.com
+production_url : http://yougukepp.github.io/
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -85,34 +85,34 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : weibo
-    disqus :
-      short_name : jekyllbootstrap
+    provider : disqus
+    disqus : 
+      short_name : yougukepp
     livefyre :
-      site_id : 123
+      site_id :
     intensedebate :
-      account : 123abc
+      account :
     facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
+      appid :
+      num_posts:
+      width:
+      colorscheme:
     weibo :
-      appkey : 2673137117
-      ralateuid : 1648815335
+      appkey : 
+      ralateuid : 
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : false
     google : 
-        tracking_id : 'UA-1268034-7'
+        tracking_id :
     getclicky :
       site_id : 
     mixpanel :
-        token : '_MIXPANEL_TOKEN_'
+        token :
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
@@ -120,7 +120,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : custom
+    provider : false
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
